@@ -1,6 +1,6 @@
 # ToDo List Application
 
-![Alt text](/ss/ToDoApp1.png "TODO")
+![Alt text](ss/ToDoApp1.png "TODO")
 
 
 ### Overview
